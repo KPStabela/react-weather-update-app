@@ -40,3 +40,10 @@ h1 {
     transform: rotate(360deg);
   }
 }
+
+.W-App-container {
+  display: block;
+  border: 1px solid white;
+  width: 600px;
+  padding: 30px 30px 30px 30px;
+}

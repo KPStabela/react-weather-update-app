@@ -1,0 +1,13 @@
+.input-field {
+    width: 300px;
+    font-size: 18px;
+    padding: 5px;
+    border: 1px solid grey;
+  }
+  
+  .input-btn {
+    width: 100px;
+    font-size: 18px;
+    padding: 5px;
+    border: 1px solid grey;
+  }

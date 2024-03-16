@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Form from "./Form";
 
 function App() {
   return (
@@ -7,9 +8,9 @@ function App() {
       <header className="App-header">
         <h1>React Weather Update App</h1>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <div className="W-App-container">
+          <Form />
+        </div>
         <a
           className="App-link"
           href="https://reactjs.org"
