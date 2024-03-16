@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 h1 {
@@ -44,6 +45,8 @@ h1 {
 .W-App-container {
   display: block;
   border: 1px solid white;
+  border-radius: 5px;
   width: 600px;
   padding: 30px 30px 30px 30px;
+  margin-top: 30px;
 }

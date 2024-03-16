@@ -1,13 +1,41 @@
 .input-field {
-    width: 300px;
-    font-size: 18px;
+    width: 350px;
+    background-color: rgb(64, 64, 64);
+    font-size: 22px;
+    color: antiquewhite;
     padding: 5px;
-    border: 1px solid grey;
+    margin: 8px;
+    border: 1px solid rgb(64, 64, 64);
   }
   
   .input-btn {
     width: 100px;
-    font-size: 18px;
+    background-color: rgb(64, 64, 64);
+    font-size: 22px;
+    color: whitesmoke;
     padding: 5px;
-    border: 1px solid grey;
+    border: 1px solid rgb(64, 64, 64);
   }
+
+  .weather-emoji {
+    width: 100px;
+    color: white;
+  }
+
+  li {
+    text-decoration: none;
+  }
+
+.weather-emoji {
+    font-size: 60px;
+}
+
+.weather-temp {
+    font-size: 80px;
+}
+
+.weather-degree {
+    font-size: 40px;
+    position: relative;
+    
+}
