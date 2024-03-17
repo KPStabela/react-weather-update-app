@@ -22,12 +22,25 @@
     color: white;
   }
 
-  li {
-    text-decoration: none;
+  ul {
+    list-style-type: none;
+  }
+
+  .app-heading {
+    font-size: 60px;
+    margin-bottom: 5px;
+    margin-top: 3px;
+  }
+
+  .field-breaker {
+    width: 500px;
+    opacity: 0.20;
+    margin-bottom: 30px;
   }
 
 .weather-emoji {
-    font-size: 60px;
+    font-size: 50px;
+    vertical-align: 15%;
 }
 
 .weather-temp {
@@ -37,5 +50,5 @@
 .weather-degree {
     font-size: 40px;
     position: relative;
-    
+    vertical-align: 40%;
 }
