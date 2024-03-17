@@ -60,8 +60,8 @@ export default function Form() {
             <div>
         <div>
             {form}
-            <h1>Klersdorp</h1>
-            <p>Saturday 23:34, clear sky <br /> Humidity: <strong>30</strong>%, Wind: <strong>0.74km/h</strong> </p>
+            <h1>Klerksdorp</h1>
+            <p>Saturday 23:34, clear sky <br /> Humidity: <strong>30</strong>%, Wind: <strong>0.74</strong>km/h </p>
         </div>
         <div>
            <span className="weather-emoji">🌖</span> 

@@ -4,11 +4,12 @@
 }
 
 h1 {
+  font-size: 60px;
   padding-top: 0 auto;
 }
 
 .App-logo {
-  max-width: 100px;
+  max-width: 200px;
   pointer-events: none;
 }
 
@@ -45,8 +46,8 @@ h1 {
 
 .W-App-container {
   display: block;
-  border: 1px solid white;
-  border-radius: 5px;
+  border: 5px solid white;
+  border-radius: 10px;
   width: 600px;
   padding: 30px 30px 30px 30px;
   margin-top: 30px;
